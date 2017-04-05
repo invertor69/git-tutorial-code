@@ -25,4 +25,8 @@ Clone this repository by running the following command:
       ./lust.py
 
 Maintainers:
+<<<<<<< HEAD
 Dario
+=======
+	Luka
+>>>>>>> origin/master
